@@ -1,2 +1,0 @@
-# CounterReduxApp
-Created with CodeSandbox
